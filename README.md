@@ -6,7 +6,7 @@
 
 2. Ejecutar
 
-```cd gapsi_hapiv1 && npm install```
+```cd back_gapsi-main && npm install```
 
 3. Iniciar el servidor
 
